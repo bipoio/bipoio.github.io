@@ -1,0 +1,16 @@
+body {
+  background-image: <img src="gatinho.jpg.jpg"
+		alt="gatinho.jpg.jpg" style="width:300; height:200px;"/>
+  background-color: #cccccc;
+  background-color: lightpink;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 40px;
+}
